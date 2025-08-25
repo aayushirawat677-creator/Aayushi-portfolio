@@ -157,6 +157,7 @@ If you need help customizing or deploying your portfolio:
 3. Validate HTML and CSS using online validators
 4. Test on multiple devices and browsers
 
+<<<<<<< HEAD
 ## 🎉 Good Luck!
 
 This portfolio is designed to help you stand out from other candidates by showcasing your unique combination of analytical thinking, business acumen, and customer empathy. Use it to tell your story and demonstrate why you'd be an excellent addition to Meta's product team!
@@ -164,3 +165,7 @@ This portfolio is designed to help you stand out from other candidates by showca
 ---
 
 **Remember**: The best portfolio is one that authentically represents you and your journey. Don't be afraid to make it personal and showcase what makes you unique!
+=======
+
+
+>>>>>>> a349e066f90e11dba9bb65fb033e2298ab1c73de
