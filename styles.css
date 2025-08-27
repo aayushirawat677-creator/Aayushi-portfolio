@@ -567,52 +567,52 @@ section {
     transition: width 1s ease;
 }
 
-/* Why Meta Section */
-.why-meta {
+/* Why Me Section */
+.why-me {
     background: linear-gradient(135deg, #1877f2, #42a5f5);
     color: white;
 }
 
-.why-meta .section-title {
+.why-me .section-title {
     color: white;
 }
 
-.meta-content {
+.why-me-content {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 4rem;
     align-items: start;
 }
 
-.meta-text h3 {
+.why-me-text h3 {
     margin-bottom: 1rem;
     font-size: 1.3rem;
 }
 
-.meta-text p {
+.why-me-text p {
     margin-bottom: 2rem;
     line-height: 1.8;
     opacity: 0.9;
 }
 
-.meta-text ul {
+.why-me-text ul {
     list-style: none;
 }
 
-.meta-text li {
+.why-me-text li {
     margin-bottom: 1rem;
     padding-left: 1.5rem;
     position: relative;
 }
 
-.meta-text li::before {
+.why-me-text li::before {
     content: "→";
     position: absolute;
     left: 0;
     color: #ffffff;
 }
 
-.meta-values h3 {
+.why-me-values h3 {
     margin-bottom: 2rem;
     font-size: 1.3rem;
 }
@@ -748,7 +748,7 @@ section {
     }
     
     .about-content,
-    .meta-content,
+    .why-me-content,
     .contact-content {
         grid-template-columns: 1fr;
         gap: 2rem;
